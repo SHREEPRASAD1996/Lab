@@ -1,4 +1,4 @@
-package com.Assignments;
+package com.java;
 
 public class Main_Movie {
   public static void main(String[] args) {
