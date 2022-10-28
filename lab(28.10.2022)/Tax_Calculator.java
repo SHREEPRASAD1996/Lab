@@ -1,4 +1,4 @@
-package com.java;
+package com.java.tax;
 
 public class Tax_Calculator {
 	float basicSalary;
