@@ -1,4 +1,4 @@
-package com.Assignments;
+package com.java;
 public class Main_Banking {
 	public static void main(String[] args) {
 		BankingOperation obj = new BankingOperation(12345,"Abhisek",81400); // first customer
