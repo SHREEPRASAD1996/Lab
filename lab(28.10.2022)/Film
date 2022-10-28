@@ -21,3 +21,22 @@ public String getMovieName() {   // we get movie name
 public void setMovieName(String movieName) {  // here we set movie name 
 	this.movieName = movieName;
 }
+public int getMovieStartTime() {
+	return movieStartTime;
+}
+public void setMovieStartTime(int movieStartTime) {
+	this.movieStartTime = movieStartTime;
+}
+public int getMovieEndTime() {
+	return movieEndTime;
+}
+public void setMovieEndTime(int movieEndTime) {
+	this.movieEndTime = movieEndTime;
+}
+public double getMovieTicketPrice() {
+	return movieTicketPrice;
+}
+public void setMovieTicketPrice(double movieTicketPrice) {
+	this.movieTicketPrice = movieTicketPrice;
+}
+}
