@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ProblemCode2 { // class
+public class Question_2 { // class
 
 	public static void main(String[] args) throws Exception { // main method
 		int x, y; // integer value
