@@ -16,7 +16,7 @@ class TaxNotEligibleException extends Exception {
 	}
 }
 
-public class TaxCalculator { // main class
+public class Tax_Calculator { // main class
 	double taxAmount;
 
 	public void calculateTax(String empname, boolean isIndian, double empSal) throws Exception { // method
